@@ -1,0 +1,6 @@
+{
+  "name": "LIFECRAFT AI – Experience Your Future",
+  "description": "Gamified life and career simulation platform for students to explore futures, make consequential decisions, build real skills, and earn certified Skill Passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
